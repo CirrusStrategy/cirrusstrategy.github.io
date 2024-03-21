@@ -8,7 +8,7 @@ export default function Footer() {
       <div className={styles.footerSection}>
         <div className={styles.socialSection}>
           <div className={styles.socialLink}>
-            <Link href="https://instagram.com/uscavenues/">
+            <Link href="https://instagram.com/csirrus/">
               <Image
                 src="/images/icons/instagram.svg"
                 height={50}
@@ -17,7 +17,7 @@ export default function Footer() {
               />
             </Link>
           </div>
-          <div className={styles.socialLink}>
+          {/*<div className={styles.socialLink}>
             <Link href="https://www.linkedin.com/company/avenues-consulting-group-usc/">
               <Image
                 src="/images/icons/linkedin.svg"
@@ -27,6 +27,7 @@ export default function Footer() {
               />
             </Link>
           </div>
+  */}
         </div>
         <div className={styles.bottomText}>
           <p>Copyright &copy;2024 Cirrus Strategy.</p>

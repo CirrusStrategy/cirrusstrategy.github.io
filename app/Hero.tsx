@@ -8,7 +8,7 @@ export default function Hero() {
       <h1 className={styles.taglineHeader}>Cirrus Strategy</h1>
       <p className={styles.subtitle}>Coming soon...</p>
       <div className={styles.taglineContent}>
-        <h2>What prolem are you solving?</h2>
+        <h2>What problem are you solving?</h2>
         <p>
           Our team has identified a critical issue faced by nonprofits: the
           fragmentation and inefficiency of their operational tools. Nonprofits

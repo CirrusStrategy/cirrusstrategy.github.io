@@ -3,7 +3,6 @@
 import React from "react";
 import Image from "next/image";
 import styles from "../styles/Navbar.module.css";
-import logo from "../public/images/logo.svg";
 import Link from "next/link";
 import styled from "styled-components";
 
@@ -32,13 +31,15 @@ export default function Navbar() {
     <nav className={styles.navbarWrapper}>
       <div className={styles.navbar}>
         <div className={styles.logoSec}>
-          <Link href="/">
-            <Image
-              src={logo}
-              className={styles.logoImg}
-              alt="Cirrus Logo Image"
-            />
-          </Link>
+          {/* <Link href="/"> */}
+            {/* <Image */}
+              {/* src={"/public/images/logo.JPEG"} */}
+              {/* width={500} */}
+              {/* height={500} */}
+              {/* className={styles.logoImg} */}
+              {/* alt="Cirrus Logo Image" */}
+            {/* /> */}
+          {/* </Link> */}
         </div>
         {/* <Burger open={open} setOpen={setOpen} /> */}
         {/* <Menu open={open} setOpen={setOpen} /> */}
