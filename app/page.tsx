@@ -1,11 +1,9 @@
 import Footer from "@/app/Footer";
 import Hero from "./Hero";
-import Clients from "./Clients";
 import Navbar from "./Navbar";
 import Cards from "./Cards";
 import MeetOurTeam from "./MeetOurTeam";
 import Info from "./Info";
-import NewHero from "./NewHero";
 
 export default function HomePage() {
   return (
@@ -13,11 +11,9 @@ export default function HomePage() {
       <Navbar />
       <main>
         <Hero />
-        {/* <NewHero /> */}
         <Cards />
-        <MeetOurTeam />
+        {/* <MeetOurTeam /> */}
         <Info />
-        <Clients />
       </main>
       <Footer />
     </>

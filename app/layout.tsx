@@ -10,9 +10,9 @@ const sora = Sora({
 });
 
 export const metadata = {
-  title: "USC Avenues Consulting Group",
+  title: "Cirrus Strategy",
   description:
-    "USC's first-ever consulting group focusing on pre-professional industries and beyond through project-building",
+    "",
   appleWebApp: {
     statusBarStyle: "black-translucent",
   },

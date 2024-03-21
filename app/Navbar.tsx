@@ -36,29 +36,29 @@ export default function Navbar() {
             <Image
               src={logo}
               className={styles.logoImg}
-              alt="Avenues Consulting Group Logo Image"
+              alt="Cirrus Logo Image"
             />
           </Link>
         </div>
-        <Burger open={open} setOpen={setOpen} />
-        <Menu open={open} setOpen={setOpen} />
-        <div className={styles.navLinksSec}>
-          <Link className={styles.navLink} href="/aboutus">
-            About Us
-          </Link>
-          <Link className={styles.navLink} href="/community">
-            Community
-          </Link>
-          <Link className={styles.navLink} href="/services">
-            Services
-          </Link>
-          <Link
-            className={styles.navLink}
-            href="https://forms.gle/e63mdyowrN3vvTRF9"
-          >
-            <button>Apply</button>
-          </Link>
-        </div>
+        {/* <Burger open={open} setOpen={setOpen} /> */}
+        {/* <Menu open={open} setOpen={setOpen} /> */}
+        {/* <div className={styles.navLinksSec}> */}
+          {/* <Link className={styles.navLink} href="/aboutus"> */}
+            {/* About Us */}
+          {/* </Link> */}
+          {/* <Link className={styles.navLink} href="/community"> */}
+            {/* Community */}
+          {/* </Link> */}
+          {/* <Link className={styles.navLink} href="/services"> */}
+            {/* Services */}
+          {/* </Link> */}
+          {/* <Link */}
+            {/* className={styles.navLink} */}
+            {/* href="https://forms.gle/e63mdyowrN3vvTRF9" */}
+          {/* > */}
+            {/* <button>Apply</button> */}
+          {/* </Link> */}
+        {/* </div> */}
       </div>
     </nav>
   );
