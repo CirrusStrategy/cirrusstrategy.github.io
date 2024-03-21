@@ -1,0 +1,43 @@
+.clientsWrapper {
+  padding: 3rem 0;
+  border-top: 1px solid var(--gray-light);
+}
+
+.header {
+  text-align: center;
+}
+
+.caption {
+  text-align: center;
+  font-size: 1.3rem;
+  opacity: 0.6;
+}
+
+.clientsSec {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.clientsSec a {
+  margin: 1rem;
+  align-self: center;
+}
+
+.clientImg {
+  max-width: 100%;
+  height: auto;
+}
+
+.clientLink {
+  display: inline;
+  height: auto;
+  max-width: 30%;
+}
+
+@media screen and (min-width: 86rem) {
+  .clientsSec {
+    width: 55%;
+  }
+}

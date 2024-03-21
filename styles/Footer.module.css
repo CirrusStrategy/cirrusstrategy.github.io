@@ -1,0 +1,23 @@
+.footer {
+  color: var(--dark-bg-col);
+  background-color: var(--avenues-sec-bg);
+}
+
+.footerSection {
+  max-width: 50rem;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.socialSection {
+  margin: 2rem 0;
+}
+
+.socialLink {
+  display: inline;
+}
+
+.bottomText {
+  padding-bottom: 2rem;
+  opacity: 0.6;
+}
