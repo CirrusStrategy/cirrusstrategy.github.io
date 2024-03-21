@@ -10,74 +10,43 @@
   font-weight: 900;
   padding-bottom: 0;
   line-height: 1.1;
-  font-size: 2.4rem;
+  font-size: 3.4rem;
   max-width: 80rem;
   margin: 0 auto;
 }
 
+.subtitle {
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 1.8;
+}
+
 .taglineContent {
   padding: 2rem 0;
-  max-width: 60rem;
+  width: 95%;
   margin: 0 auto;
 }
 
-.taglineText {
-  font-size: 1.2rem;
-  margin-top: 1rem;
-  opacity: 0.6;
-}
-
-.applyBut {
-  margin-bottom: 1.4rem;
-  margin-right: 0.4rem;
-}
-
-.noBut {
-  background-color: inherit;
-  border: none;
-  color: inherit;
-  font-weight: 500;
-}
-
-.imgSec {
-  position: relative;
-}
-
-.mainImg {
-  margin: 1rem 0 0 1rem;
-  position: relative;
-  width: 90%;
-  height: auto;
-  box-shadow: 0px 36px 72px -36px rgba(0, 0, 0, 0.1),
-    0px 60px 90px -60px rgba(25, 12, 12, 0.1);
-}
-
-.gradImg {
-  position: absolute;
-  width: 95%;
-  height: auto;
-  box-shadow: 0px 36px 72px -36px rgba(0, 0, 0, 0.1),
-    0px 60px 90px -60px rgba(25, 12, 12, 0.1);
+.taglineContent p {
+  margin-bottom: 2rem;
 }
 
 @media screen and (min-width: 40rem) {
-  .mainImg {
-    margin: 1rem 0 0 1.5rem;
-  }
-
   .taglineContent {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .imgSec {
-    margin-left: 1rem;
+    width: 90%;
   }
 }
 
-@media screen and (min-width: 55rem) {
+@media screen and (min-width: 60rem) {
   .taglineHeader {
-    font-size: 3.8rem;
+    font-size: 5.8rem;
+  }
+
+  .taglineContent {
+    width: 65%;
+  }
+
+  .subtitle {
+    font-size: 2.2rem;
   }
 }

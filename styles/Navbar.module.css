@@ -5,7 +5,7 @@
   top: -4rem;
   height: 4rem;
   transform: translateY(100%);
-  background-color: hsla(0, 0%, 93%, 0.9);
+  background-color: var(--gray-lightest);
   border-bottom: 1px solid var(--gray-light);
 }
 
@@ -20,6 +20,7 @@
 .logoSec {
   display: block;
   align-self: center;
+  margin: 0 auto;
 }
 
 .logoImg {

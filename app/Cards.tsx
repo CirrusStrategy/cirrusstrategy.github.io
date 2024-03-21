@@ -11,29 +11,6 @@ export default function Cards() {
       <div className={styles.cardsSec}>
         <div>
           <div className={styles.card + " card"}>
-            <Image src={grad1} alt="Gradient Image" />
-            <div className={"cardContent"}>
-              <h2>Pitch Day</h2>
-              <p>
-                Innovation, brainstorming, and ideation starts here. Within 24
-                hours, teams will curate ideas for projects and share their
-                pitches.
-              </p>
-            </div>
-          </div>
-          <div className={styles.card + " card"}>
-            <Image src={grad2} alt="Gradient Image" />
-            <div className={"cardContent"}>
-              <h2>Client Reveal Day</h2>
-              <p>
-                Members will found out the teams and clients they will be
-                working with for the semester, along with the assigned leads.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div>
-          <div className={styles.card + " card"}>
             <Image src={grad3} alt="Gradient Image" />
             <div className={"cardContent"}>
               <h2>Curriculum Nights</h2>

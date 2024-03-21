@@ -4,8 +4,8 @@
   --avenues-sec-bg: #345075;
   --avenues-dark: #14273e;
   --dark-bg-col: rgb(193, 209, 224);
-  --gray-lightest: #f2f2f2;
-  --gray-light: #dcdcdc;
+  --gray-lightest: #f9f9f9;
+  --gray-light: #e7e7e7;
   --gray-medium: #b9b9b9;
   --gray-dark: #4d4d4d;
 }
@@ -53,7 +53,7 @@ textarea:focus {
 main {
   padding-top: 3rem;
   padding-bottom: 1rem;
-  background-color: #eeeeee;
+  background-color: var(--gray-lightest)
 }
 
 html {

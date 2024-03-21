@@ -13,7 +13,7 @@ export default function HomePage() {
         <Hero />
         <Cards />
         {/* <MeetOurTeam /> */}
-        <Info />
+        {/* <Info /> */}
       </main>
       <Footer />
     </>
