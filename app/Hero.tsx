@@ -28,7 +28,7 @@ export default function Hero() {
         <h2>Call to Action:</h2>
         <p>
           Join us in shaping a better future. Nonprofits, advocates, and
-          changemakers–let's collaborate to leverage technology for social
+          changemakers–let&apos;s collaborate to leverage technology for social
           progress.
         </p>
         <h2>Our Approach:</h2>
@@ -45,7 +45,7 @@ export default function Hero() {
         <h2>Stay Connected:</h2>
         <p>
           Be part of the conversation on tech-driven social impact. Follow our
-          work, share your insights, and let's amplify our collective voice.
+          work, share your insights, and let&apos;s amplify our collective voice.
         </p>
         <h2>Contact Information:</h2>
         <p>
