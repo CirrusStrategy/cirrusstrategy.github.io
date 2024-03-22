@@ -49,7 +49,7 @@ export default function Hero() {
         </p>
         <h2>Contact Information:</h2>
         <p>
-          Ready to explore partnership? Contact us at cirrusstrategy@gmail.com
+          Ready to explore partnership? Contact us at <a href="mailto:cirrusstrategy@gmail.com">cirrusstrategy@gmail.com</a>
           or connect on social media. Together, we can build a more just world
           through technology.
         </p>
