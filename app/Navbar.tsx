@@ -72,18 +72,6 @@ const Menu = ({ open }: { open: boolean; setOpen: Function }) => {
       <Link className={styles.menuLink} href="/aboutus">
         About Us
       </Link>
-      <Link className={styles.menuLink} href="/community">
-        Community
-      </Link>
-      <Link className={styles.menuLink} href="/services">
-        Services
-      </Link>
-      <Link
-        className={styles.menuLink}
-        href="https://forms.gle/APuFisBnkJhGTkTcA"
-      >
-        <button>Apply</button>
-      </Link>
     </StyledMenu>
   );
 };
