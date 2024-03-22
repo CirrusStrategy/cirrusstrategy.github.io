@@ -8,7 +8,7 @@ export default function Footer() {
       <div className={styles.footerSection}>
         <div className={styles.socialSection}>
           <div className={styles.socialLink}>
-            <Link href="https://instagram.com/csirrus/">
+            <Link href="https://instagram.com/cirrus.strategy/">
               <Image
                 src="/images/icons/instagram.svg"
                 height={50}

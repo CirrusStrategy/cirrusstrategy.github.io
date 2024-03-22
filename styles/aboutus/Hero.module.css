@@ -1,0 +1,13 @@
+.heroSec {
+  margin: 0 auto;
+  padding: 6rem 0;
+  max-width: 50rem;
+  width: 80%;
+}
+
+.header {
+  font-size: 4rem;
+  right: 0;
+  color: var(--gray-dark);
+  width: 80%;
+}

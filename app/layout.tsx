@@ -1,12 +1,18 @@
 import Head from "next/head";
-import { Sora } from "next/font/google";
+import { DM_Sans, Karla, Libre_Franklin, Sora } from "next/font/google";
 import "../styles/globals.css";
 import StyledComponentsRegistry from "./registry";
 
-const sora = Sora({
+const dmsans = DM_Sans({
   weight: "variable",
   subsets: ["latin"],
-  variable: "--sora-font",
+  variable: "--dmsans-font",
+});
+
+const librefranklin = Libre_Franklin({
+  weight: "variable",
+  subsets: ["latin"],
+  variable: "--libref-font",
 });
 
 export const metadata = {
@@ -24,7 +30,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html className={sora.variable} lang="en">
+    <html className={librefranklin.variable} lang="en">
       <body>
         <StyledComponentsRegistry>{children}</StyledComponentsRegistry>
       </body>

@@ -8,24 +8,50 @@ export default function Hero() {
       <h1 className={styles.taglineHeader}>Cirrus Strategy</h1>
       <p className={styles.subtitle}>Coming soon...</p>
       <div className={styles.taglineContent}>
-        <h2>What problem are you solving?</h2>
+        <h2>Mission Statement:</h2>
         <p>
-          Our team has identified a critical issue faced by nonprofits: the
-          fragmentation and inefficiency of their operational tools. Nonprofits
-          often rely on a multitude of software and tools, leading to
-          inefficient data collection, redundancy, and increased administrative
-          burdens. Additionally, they face challenges related to limited
-          resources, ineffective networking, and data privacy and security.
+          Cirrus Strategy harnesses the power of technology to drive social
+          change. We bridge divides, accelerate innovation, and champion a more
+          just and equitable world.
         </p>
-        <h2>What is your concept of idea?</h2>
+        <h2>Our Ethos:</h2>
         <p>
-          Our concept is a digital platform that integrates various management
-          tools and social networking features to revolutionize how nonprofits
-          operate, collaborate, and communicate their impact with one another.
-          We envision a unique ecosystem where nonprofits can streamline their
-          operations, foster strategic partnerships, and amplify their social
-          impact for the better good. This platform is designed to address the
-          common challenges faced by nonprofits on a day to day basis.
+          We believe in the transformative potential of technology. Our passion
+          lies in creating solutions that empower individuals and strengthen
+          communities.
+        </p>
+        <h2>Impact Philosophy:</h2>
+        <p>
+          Technology should be a force for good. We design solutions that tackle
+          urgent social challenges and create sustainable, long-term impact.
+        </p>
+        <h2>Call to Action:</h2>
+        <p>
+          Join us in shaping a better future. Nonprofits, advocates, and
+          changemakers–let's collaborate to leverage technology for social
+          progress.
+        </p>
+        <h2>Our Approach:</h2>
+        <p>
+          We are action-oriented and results-driven. Collaboration is key–we
+          partner with diverse stakeholders to find solutions that truly make a
+          difference.
+        </p>
+        <h2>Team and Values:</h2>
+        <p>
+          We are a team of dedicated problem-solvers driven by empathy,
+          integrity, and a relentless pursuit of progress.
+        </p>
+        <h2>Stay Connected:</h2>
+        <p>
+          Be part of the conversation on tech-driven social impact. Follow our
+          work, share your insights, and let's amplify our collective voice.
+        </p>
+        <h2>Contact Information:</h2>
+        <p>
+          Ready to explore partnership? Contact us at cirrusstrategy@gmail.com
+          or connect on social media. Together, we can build a more just world
+          through technology.
         </p>
         {/* 
         <div className={styles.tagline}>

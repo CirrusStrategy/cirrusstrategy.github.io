@@ -22,13 +22,30 @@
 }
 
 .taglineContent {
-  padding: 2rem 0;
+  padding: 1rem 0;
   width: 95%;
   margin: 0 auto;
 }
 
+.link {
+  text-align: center;
+  margin: 0 auto;
+}
+
 .taglineContent p {
+  margin-bottom: 1rem;
+}
+
+.applyBut {
   margin-bottom: 2rem;
+  margin-right: 0.6rem;
+}
+
+.noBut {
+  background-color: inherit;
+  border: 1px solid var(--gray-medium);
+  color: inherit;
+  font-weight: 500;
 }
 
 @media screen and (min-width: 40rem) {
@@ -43,7 +60,8 @@
   }
 
   .taglineContent {
-    width: 65%;
+    max-width: 40rem;
+    /* width: 65%; */
   }
 
   .subtitle {
