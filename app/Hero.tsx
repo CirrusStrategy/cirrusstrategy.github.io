@@ -45,11 +45,13 @@ export default function Hero() {
         <h2>Stay Connected:</h2>
         <p>
           Be part of the conversation on tech-driven social impact. Follow our
-          work, share your insights, and let&apos;s amplify our collective voice.
+          work, share your insights, and let&apos;s amplify our collective
+          voice.
         </p>
         <h2>Contact Information:</h2>
         <p>
-          Ready to explore partnership? Contact us at <a href="mailto:cirrusstrategy@gmail.com">cirrusstrategy@gmail.com</a>
+          Ready to explore partnership? Contact us at{" "}
+          <a href="mailto:cirrusstrategy@gmail.com">cirrusstrategy@gmail.com</a>{" "}
           or connect on social media. Together, we can build a more just world
           through technology.
         </p>
