@@ -10,14 +10,8 @@ export default function Hero() {
       <div className={styles.taglineContent}>
         <h2>Mission Statement:</h2>
         <p>
-          Cirrus Strategy harnesses the power of technology to drive social
-          change. We bridge divides, accelerate innovation, and champion a more
-          just and equitable world.
-        </p>
-        <h2>Mission Statement:</h2>
-        <p>
           Cirrus Strategy leverages the power of technology to create positive 
-          social impact. At Cirrus we connect meaningful action with innovation. 
+          social impact by connecting meaningful action with innovation. 
           We champion a just and equitable world.
         </p>
         <h2>Our Approach:</h2>
