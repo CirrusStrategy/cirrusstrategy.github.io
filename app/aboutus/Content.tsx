@@ -8,9 +8,8 @@ export default function Content() {
     <div className={styles.content}>
       <div className={styles.contentSec}>
         <h2 className={styles.header}>
-          At Avenues Consulting Group, we believe that any student regardless of
-          major can break into the rigorous journey of consulting and
-          project-building.
+          At Cirrus Strategy, we believe that anyone can create impactful
+          social change with the right technology.
         </h2>
         <p className={styles.text}>
           We welcome students from all majors and backgrounds to join our team
