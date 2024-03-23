@@ -14,33 +14,23 @@ export default function Hero() {
           change. We bridge divides, accelerate innovation, and champion a more
           just and equitable world.
         </p>
-        <h2>Our Ethos:</h2>
+        <h2>Mission Statement:</h2>
         <p>
-          We believe in the transformative potential of technology. Our passion
-          lies in creating solutions that empower individuals and strengthen
-          communities.
+          Cirrus Strategy leverages the power of technology to create positive 
+          social impact. At Cirrus we connect meaningful action with innovation. 
+          We champion a just and equitable world.
         </p>
-        <h2>Impact Philosophy:</h2>
+        <h2>Our Approach:</h2>
         <p>
-          Technology should be a force for good. We design solutions that tackle
-          urgent social challenges and create sustainable, long-term impact.
+          There are a variety of obstacles that limit the ability to enact change.
+          By developing the right platforms and applications, we can eliminate 
+          these obstacles and truly make a difference. 
         </p>
         <h2>Call to Action:</h2>
         <p>
           Join us in shaping a better future. Nonprofits, advocates, and
           changemakers–let&apos;s collaborate to leverage technology for social
           progress.
-        </p>
-        <h2>Our Approach:</h2>
-        <p>
-          We are action-oriented and results-driven. Collaboration is key–we
-          partner with diverse stakeholders to find solutions that truly make a
-          difference.
-        </p>
-        <h2>Team and Values:</h2>
-        <p>
-          We are a team of dedicated problem-solvers driven by empathy,
-          integrity, and a relentless pursuit of progress.
         </p>
         <h2>Stay Connected:</h2>
         <p>
