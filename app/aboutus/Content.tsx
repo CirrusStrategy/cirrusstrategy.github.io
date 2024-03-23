@@ -12,40 +12,26 @@ export default function Content() {
           social change with the right technology.
         </h2>
         <p className={styles.text}>
-          We welcome students from all majors and backgrounds to join our team
-          and contribute their unique skills and perspectives. We focus on the
-          following industries:{" "}
-          <span className={styles.bold}>
-            pre-law, pre-med, pre-education, tech, and real estate
-          </span>
-          .
+          A significant obstacle faced by proponents of social change is their
+          inability to connect with the right resources. Cirrus Strategy aims to 
+          develop platforms that eliminate that obstacle through proper 
+          networking and artificial intelligence.
         </p>
         <p className={styles.text}>
-          Our team of talented students from a diverse range of backgrounds and
-          majors work together to provide pro-bono consulting services to
-          companies in pre-professional industries. Not only will you gain
-          valuable skills and experience, but you will also have the opportunity
-          to gain mentorship, network, and gain an industry perspective.
-        </p>
-        <p className={styles.text}>
-          Joining Avenues is not just about gaining experience and skills, it is
-          also about being part of a community of like-minded individuals who
-          are passionate about making a difference. Our team participates in
-          various social and professional events throughout the year, providing
-          opportunities to connect with other students and industry
-          professionals.
+          Two issues we are currently focused on are sustainable nonprofit 
+          development and housing inaccess. We are conducting research on problems 
+          faced by nonprofit organizations and affordable housing advocates to 
+          develop platforms to best address their needs. We look forward to pursuing 
+          future projects that can resolve more social issues.
         </p>
         <p className={styles.specialText}>
           <span className={styles.bold}>
-            Ready to take the first step in joining our team?&nbsp;
+            Ready to take the first step towards social change?&nbsp;
           </span>
-          Fill out our{" "}
-          <Link href="https://forms.gle/2qXD2SRk3LfSQfnFA">
-            potential member interest form
-          </Link>{" "}
-          or contact us at{" "}
-          <a href="mailto:uscavenues@gmail.com">uscavenues@gmail.com</a> to
-          learn more. We can&apos;t wait to hear from you!
+          Contact us at{" "}
+          <a href="mailto:cirrusstrategy@gmail.com">cirrusstrategy@gmail.com</a> to
+          connect with us and see how we can collaborate. We can&apos;t wait to 
+          hear from you!
         </p>
       </div>
     </div>
