@@ -21,7 +21,7 @@ export default function Content() {
           Two issues we are currently focused on are sustainable nonprofit 
           development and housing inaccess. We are conducting research on problems 
           faced by nonprofit organizations and affordable housing advocates to 
-          develop platforms to best address their needs. We look forward to pursuing 
+          develop platforms to best address their needs. We look forward to 
           future projects that can resolve more social issues.
         </p>
         <p className={styles.specialText}>
