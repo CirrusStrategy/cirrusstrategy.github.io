@@ -32,8 +32,8 @@
   margin: 0 auto;
 }
 
-.taglineContent p {
-  margin-bottom: 1rem;
+.taglineContent h2 {
+  margin-top: 1rem;
 }
 
 .applyBut {
@@ -46,6 +46,16 @@
   border: 1px solid var(--gray-medium);
   color: inherit;
   font-weight: 500;
+}
+
+.bolded {
+  margin-top: 3rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.text {
+  padding-bottom: 3rem;
 }
 
 @media screen and (min-width: 40rem) {

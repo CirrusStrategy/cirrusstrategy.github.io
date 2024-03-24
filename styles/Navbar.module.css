@@ -20,11 +20,11 @@
 .logoSec {
   display: block;
   align-self: center;
+  margin: auto;
 }
 
 .logoImg {
-  width: 3.5rem;
-  height: auto;
+  height: 2rem;
 }
 
 .navLinksSecMob {

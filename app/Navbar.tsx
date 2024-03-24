@@ -40,13 +40,13 @@ export default function Navbar() {
             />
           </Link>
         </div>
-        <Burger open={open} setOpen={setOpen} />
-        <Menu open={open} setOpen={setOpen} />
-        <div className={styles.navLinksSec}>
+        {/* <Burger open={open} setOpen={setOpen} /> */}
+        {/* <Menu open={open} setOpen={setOpen} /> */}
+        {/*<div className={styles.navLinksSec}>
           <Link className={styles.navLink} href="/aboutus">
             About Us
           </Link>
-        </div>
+  </div> */}
       </div>
     </nav>
   );
@@ -66,6 +66,7 @@ const Burger = ({ open, setOpen }: { open: boolean; setOpen: Function }) => {
   );
 };
 
+{/*
 const Menu = ({ open }: { open: boolean; setOpen: Function }) => {
   return (
     <StyledMenu className={styles.menu} open={open}>
@@ -75,3 +76,4 @@ const Menu = ({ open }: { open: boolean; setOpen: Function }) => {
     </StyledMenu>
   );
 };
+*/}

@@ -8,6 +8,25 @@ export default function Hero() {
       <h1 className={styles.taglineHeader}>Cirrus Strategy</h1>
       <p className={styles.subtitle}>Coming soon...</p>
       <div className={styles.taglineContent}>
+        <p className={styles.bolded}>
+          At Cirrus Strategy, we believe that anyone can create impactful
+          social change with the right technology.
+        </p>
+        <p>
+          A significant obstacle faced by proponents of social change is their
+          inability to connect with the right resources. Cirrus Strategy aims to 
+          develop platforms that eliminate that obstacle through proper 
+          networking and artificial intelligence.
+        </p>
+        <p className={styles.text}>
+          Two issues we are currently focused on are sustainable nonprofit 
+          development and housing inaccess. We are conducting research on problems 
+          faced by nonprofit organizations and affordable housing advocates to 
+          develop platforms to best address their needs. We look forward to 
+          future projects that can resolve more social issues.
+        </p>
+
+
         <h2>Mission Statement:</h2>
         <p>
           Cirrus Strategy leverages the power of technology to create positive 
